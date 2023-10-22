@@ -198,3 +198,10 @@ void init_pic(void)
     io.outb(0xA1, 0x0);
 }
 
+/* 
+ * Kernel Space. v_addr < USER_OFFSET are addressed by the kernel pages table
+ */
+for (i=0; i<256; i++) 
+    pdir[i] = pd0[i];
+
+
