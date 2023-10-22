@@ -57,7 +57,7 @@ enum{
 	ERROR_MEMORY=-2,
 	PARAM_NULL=-3,
 	ERROR_PARAM=-4,
-	RETURN_FAILURE=-128 //Added by NoMaintener aka William. In case of error
+	RETURN_FAILURE=-128 
 };
  
  
