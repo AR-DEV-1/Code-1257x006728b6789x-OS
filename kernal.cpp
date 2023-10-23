@@ -1,6 +1,8 @@
 #define GDTBASE    0x00000800
 #define IDTBASE    0x00000000
-#define IDTSIZE 0xFF
+#define IDTSIZE    0xFF
+#define KERNAL     0x00000000
+
 idtr kidtr;
 // kernal 
 // written in C++
@@ -204,4 +206,8 @@ void init_pic(void)
 for (i=0; i<256; i++) 
     pdir[i] = pd0[i];
 
-
+unsigned char kernel =  
+{
+for (k=0; k<250p; k++ )
+    kstart[k] = ks0[k];
+}
