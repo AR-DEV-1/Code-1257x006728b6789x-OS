@@ -1,8 +1,8 @@
-Beacon OS is an OS in C , C++ and Assembly , created for people who want to customize their PC
+Code-1257x006728b6789x OS is an OS in C , C++ and Assembly , created for everyone!
 -
 x86 and AMD64 systems are supported 
 -
-Have Fun !
+ Always Remember Code 1257x006728b6789x ...
 -
 Note : Still in development !
 -
