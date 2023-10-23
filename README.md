@@ -1,6 +1,6 @@
 Beacon OS is an OS in C , C++ and Assembly , created for people who want to customize their PC
 -
-x86 systems are supported 
+x86 and AMD64 systems are supported 
 -
 Have Fun !
 -
